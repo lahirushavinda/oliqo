@@ -6,8 +6,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Savitar unless otherwise defined in this Privacy Policy.
 
 
-This Privacy Policy is published pursuant to:
-
+This Privacy Policy is published pursuant to:\b
 a.     Section 43A of the Information Technology Act, 2000;
 b.     Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (“SPDI Rules”); and
 c.      Regulation 3(1) of the Information Technology (Intermediaries Guidelines) Rules, 2011.
