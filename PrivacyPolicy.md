@@ -7,6 +7,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 
 This Privacy Policy is published pursuant to:
+
 a.     Section 43A of the Information Technology Act, 2000;
 b.     Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (“SPDI Rules”); and
 c.      Regulation 3(1) of the Information Technology (Intermediaries Guidelines) Rules, 2011.
