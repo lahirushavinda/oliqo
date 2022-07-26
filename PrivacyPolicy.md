@@ -1,4 +1,4 @@
-Privacy Policy
+**Privacy Policy**
 
 Oliqo technologies private limited built the Savitar app as a Free app. This SERVICE is provided by oliqo technologies private limited at no cost and is intended for use as is.\
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
@@ -30,7 +30,7 @@ We may employ third-party companies and individuals due to the following reasons
 •	To facilitate our Service\
 •	To provide the Service on our behalf\
 •	To perform Service-related services or\
-•	To assist us in analyzing how our Service is used.\
+•	To assist us in analyzing how our Service is used.
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
@@ -48,7 +48,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 This policy is effective as of 2021-12-28
 
 Contact Us\
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at oliqotechnologies@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at oliqotechnologies@gmail.com.\
 Address:\
               8th Phase\
               JP Nagara\
